@@ -26,7 +26,7 @@ The main goal of this dashboard is to:
 ## 📂 Dataset Source
 
 **Kaggle Dataset**:  
-[Chocolate Sales Dataset on Kaggle]()
+[Chocolate Sales Dataset on Kaggle](https://github.com/RaginiAG/Power-BI-Chocolate-Sales-Dashboard/blob/main/Chocolate%20Sales%20Data.xlsx)
 
 ---
 
