@@ -23,6 +23,28 @@ The main goal of this dashboard is to:
 
 ---
 
+## 📂 Dataset Source
+
+**Kaggle Dataset**:  
+[Chocolate Sales Dataset on Kaggle]()
+
+---
+
+## 🧠 Insights Gained
+
+- Top-selling months and products were identified.
+- Regional differences in chocolate demand were analyzed.
+- Sales fluctuations over time highlighted areas of growth.
+- Strategic decisions can be made to target high-performing areas.
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot]()  
+
+---
+
 ## 🔧 Tools Used
 
 - Power BI Desktop
