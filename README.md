@@ -13,3 +13,12 @@ The main goal of this dashboard is to:
 
 ---
 
+## 📊 Dashboard Features
+
+- 📅 **Time-based Analysis**: Monthly sales trends.
+- 🌍 **Regional Insights**: Sales performance by country.
+- 🍫 **Product Performance**: Best-selling chocolate types and their revenue.
+- 🧍 **Customer Analysis**: Analyze purchase trends by customer segments.
+- 📈 **KPIs**: Total sales, average order value, number of units sold.
+
+---
