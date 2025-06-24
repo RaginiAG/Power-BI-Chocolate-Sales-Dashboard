@@ -41,7 +41,7 @@ The main goal of this dashboard is to:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]()  
+![Dashboard Screenshot](https://github.com/RaginiAG/Power-BI-Chocolate-Sales-Dashboard/blob/main/Dashboard-Image.png)  
 
 ---
 
