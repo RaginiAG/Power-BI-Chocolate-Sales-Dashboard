@@ -22,3 +22,13 @@ The main goal of this dashboard is to:
 - 📈 **KPIs**: Total sales, average order value, number of units sold.
 
 ---
+
+## 🔧 Tools Used
+
+- Power BI Desktop
+- Excel/CSV for preprocessing
+- GitHub for version control and documentation
+
+-
+
+  ## ⭐️ If you found this project useful, consider giving it a star on GitHub!
